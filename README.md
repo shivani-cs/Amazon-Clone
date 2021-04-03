@@ -2,13 +2,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Features:
+### Features:
 
 * Accounts and Login Page 👨‍👨‍👧‍👦
 * Products Page 📦
 * Cart and Checkout Page  🛒
 * Real Payments 💳
 * Order History Page 📖
+
+### Screen Shots:
+
+* Products Page 📦
+
+<img
+src="output/product_page.jpg"
+raw=true
+alt="Subject Pronouns"
+style="margin-right: 10px;"
+/>
 
 In the project directory, you can run:
 
